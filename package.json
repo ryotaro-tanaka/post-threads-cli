@@ -1,0 +1,25 @@
+{
+  "name": "post-threads-cli",
+  "version": "1.0.0",
+  "description": "This project is a simple CLI tool for publishing posts to Threads using the Threads API from the command line. It uses the token configured in the `.env` file to publish messages.",
+  "main": "index.js",
+  "scripts": {
+    "threads": "node threads.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryotaro-tanaka/post-threads-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ryotaro-tanaka/post-threads-cli/issues"
+  },
+  "homepage": "https://github.com/ryotaro-tanaka/post-threads-cli#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}

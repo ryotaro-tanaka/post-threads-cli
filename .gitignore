@@ -1,0 +1,26 @@
+/node_modules
+.env
+
+# AI Configuration files
+# Gemini
+GEMINI.md
+.gemini/
+
+# Claude
+CLAUDE.md
+AGENTS.md
+SKILLS.md
+MEMORY.md
+CONTEXT.md
+.claude/
+
+# Cursor
+.cursorrules
+.cursor/
+
+# GitHub Copilot
+.github/copilot-instructions.md
+
+# Windsurf
+.windsurfrules
+.windsurf/
